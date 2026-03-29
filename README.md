@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hey, I'm Parrish Marisco 👋
+## Hi there👋, I'm Parrish Marisco🫡
 
 AWS Certified Solutions Architect | Cloud-to-Cloud Infrastructure | 
 TS/SCI Cleared | 15+ Years DoD & Intelligence Community
